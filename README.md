@@ -5,11 +5,11 @@ Patternbolt is a fine selection of SVG pattern background, packed in a single or
 The pattern is added in a "after" element and your original element still be inalterate and ready for manipulations. As they are vectors they never pixelate, not even on 4k screens. 
 The pattern selection still be under development, to see the showcase, visit the <a href="http://buseca.github.io/patternbolt/">demo page</a>
 
-##Contributions
+## Contributions
 Contributions and pull requests are always welcome.<br>
 If you are a **Designer** you can vote and submit new patterns joining the public <a href="https://trello.com/b/qlC1dtZa/patternbolt-new-patterns-proposals" target="_blank">Trello Board</a>. Contact me by twitter or email to request to be added as member of the board.
 
-##SCSS version
+## SCSS version
 The Scss version is the main one, it's the more advanced one and its pattern library is always up-to-date.<br>
 To use it you can follow the instruction commented directly in the Scss file.<br>
 Basically you can call the whole Patternbolt Scss file in your project with an @import or just copy all its lines into your main Scss file. To insert a pattern use the related mixin, as in the examples below.
@@ -92,7 +92,7 @@ Basically you can call the whole Patternbolt Scss file in your project with an @
 
 
 
-##CSS version
+## CSS version
 Just include it in your project whith this:
 
     <link rel="stylesheet" href="css/patternbolt.css" />
@@ -119,7 +119,7 @@ Here come the list of CSS pattern classes in the library:
 
 
 
-##More info
+## More info
 
 You can check the demo page at http://buseca.github.io/patternbolt/<br>
 You can find me on twitter: **<a href="https://twitter.com/ruggeromotta">@ruggeromotta</a>**
